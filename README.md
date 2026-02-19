@@ -1,5 +1,3 @@
-# Menniscoxd.github.io
-Tarea
 <!DOCTYPE html>
 <html lang="es">
 <head>
